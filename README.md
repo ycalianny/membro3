@@ -38,6 +38,6 @@ background-color: #CAF7E3
 	<LI><A href="mailto:yasmimcalianny@gmail.com">email</A>
 </UL>
 
-<P>para visitar o site do grupo <A href="">clique aqui</A>
+<P>para visitar o site do grupo <A href="https://github.com/ycalianny/grupo/blob/main/README.md#grupo">clique aqui</A>
 </body>
 </html>
